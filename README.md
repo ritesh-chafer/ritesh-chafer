@@ -2,7 +2,7 @@
 
 <!--
 **ritesh-chafer/ritesh-chafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![https://i.imgur.com/lLvpTLP.jpg](https://github.com/ritesh-chafer)
+![](images/githubreadme.jpg)
 
 ### Welcome to my GitHub page!
 
