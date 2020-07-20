@@ -8,7 +8,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML Projects
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently in love with Deep Learning
+- 🔭 I’m interested in area of data science and data analysis
 - 👯 I’m ready to collaborate on creative ideas
 - 😄 Pronouns: He/His
-- 📫 More details:[chafer.dscnsec.in](https://chafer.dscnsec.com/)
+- 📫 More details: [chafer.dscnsec.in](https://chafer.dscnsec.com/)
