@@ -3,7 +3,10 @@
 <!--
 **ritesh-chafer/ritesh-chafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![](images/githubreadme.jpg)
+### Welcome to my GitHub page!
 
+Connect with me on these platforms:
+![https://www.linkedin.com/in/chafer/]()  [https://twitter.com/Ritesh_chafer]()
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML Projects
