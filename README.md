@@ -2,7 +2,7 @@
 
 <!--
 **ritesh-chafer/ritesh-chafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![](images/githubreadme.jpg)
+![images/githubreadme.jpg]()
 
 ### Welcome to my GitHub page!
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in area of data science and data analysis
 - 👯 I’m ready to collaborate on creative ideas
 - 😄 Pronouns: He/His
-- 📫 More details: [chafer.dscnsec.in](https://chafer.dscnsec.com/)
+- 📫 More details: [chafer.dscnsec.com](https://chafer.dscnsec.com/)
