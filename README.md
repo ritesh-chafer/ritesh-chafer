@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in areas of Data Science and Machine Learning
 - 👯 I’m ready to collaborate on creative ideas
 - 😄 Pronouns: He/His
-- 📫 More details: [chafer.dscnsec.com](https://chafer.dscnsec.com/)
+- 📫 FOllow me on Kaggle: [kaggle.com/riteshprasadsingh](https://www.kaggle.com/riteshprasadsingh)
